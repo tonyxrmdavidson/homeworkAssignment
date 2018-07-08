@@ -4,7 +4,7 @@ var assert = require('chai').assert;
 
 describe('server response', function () {
      before(function () {
-          server.init(3000);
+          server.init();
      });
 
      after(function () {
