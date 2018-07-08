@@ -1,0 +1,17 @@
+{
+  "name": "HOMEWORKASSIGNMENT",
+  "version": "1.0.0",
+  "description": "Homework#1 for node.js masterclass          ",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Tony Davidson",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "request": "^2.87.0",
+    "sinon": "^6.0.1"
+  }
+}
